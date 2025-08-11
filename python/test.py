@@ -1,1 +1,5 @@
 print("adivn")
+print("hello git")
+print("hi")
+print("dksdivn")
+print(1 + 2)
